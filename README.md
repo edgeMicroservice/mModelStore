@@ -1,10 +1,10 @@
 # mModelStore
-mModelStore is a cross-platform edge microservice designed for hosting and managing machine learning models at the edge.
+mModelStore is a cross-platform edge microservice designed for hosting and managing machine learning AI models at the edge.
 
 Key Features:
-- Model Information Upload: Store details about your machine learning models in the mModelStore’s local database.
-- Model Information Retrieval: Access information about specific machine learning models from the local database.
-- Model Sharing: Retrieve machine learning models from other connected devices.
+- Model Information Upload: Store details about your machine learning AI models in the mModelStore’s local database.
+- Model Information Retrieval: Access information about specific machine learning AI models from the local database.
+- Model Sharing: Retrieve machine learning AI models from other connected devices.
 
 ## Installation Guide
 
