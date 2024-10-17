@@ -1,5 +1,5 @@
 # mModelStore
-mModelStore is a cross-platform edge microservice designed for hosting and managing machine learning AI models at the edge.
+mModelStore is a cross-platform edge microservice designed to host and manage machine learning AI models at the edge.
 
 Key Features:
 - Model Information Upload: Store details about your machine learning AI models in the mModelStore’s local database.
@@ -10,5 +10,5 @@ Key Features:
 
 1. Download the latest .zip file for the most recent release [HERE](https://github.com/edgeMicroservice/mModelStore/releases).
 2. Unzip the package.
-3. Locate the unzipped .tar file; this is the artifact needed for the edge microservice deployment.
-4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-index).
+3. Locate the unzipped .tar file; this artifact is needed for the edge microservice deployment.
+4. If you are deploying the edge microservice for the first time, please follow the [edge microservice deployment quick start guide](https://devdocs.mimik.com/tutorials/01-submenu).
